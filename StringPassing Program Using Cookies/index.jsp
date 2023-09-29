@@ -7,7 +7,7 @@
 <title>Test</title>
 </head>
 <body>
-	<form method="post" action="process2">
+	<form method="post" action="process1">
 		Enter First Name: <input type="text" name="fname">
 		Enter Last Name: <input type="text" name="lname">
 		<input type="submit" value="Click ME">
